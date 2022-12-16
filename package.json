@@ -639,7 +639,7 @@
     "esbuild": "^0.14.47",
     "eslint": "^8.18.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-jest": "^26.5.3",
+    "eslint-plugin-jest": "^27.1.7",
     "eslint-plugin-sonarjs": "^0.13.0",
     "expect-more-jest": "^5.4.1",
     "jest": "^27.5.1",
